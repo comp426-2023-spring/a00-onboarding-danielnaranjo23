@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Naranjos-MacBook-Air.local 19.6.0 Darwin Kernel Version 19.6.0: Mon Apr 18 21:50:40 PDT 2022; root:xnu-6153.141.62~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.24.3 (Apple Git-128)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Nov  3 2021 04:38:26)
+CURL:	[/opt/anaconda3/bin/curl] curl 7.84.0 (x86_64-apple-darwin13.4.0) libcurl/7.84.0 OpenSSL/1.1.1q zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/danielnaranjo/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
